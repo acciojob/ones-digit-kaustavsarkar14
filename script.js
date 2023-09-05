@@ -1,6 +1,7 @@
 function onesDigit(n) {
   // your code here
-	return +n.charAt(n.length-1)
+	
+	return n[n.length-1]
 }
 
 // Do not change the code below
